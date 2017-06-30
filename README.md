@@ -1,3 +1,3 @@
-# HTML_SAMPLE_CODE_2
+# html_sample_code2
 HTMLのサンプルコードその２【レスポンシブウェブサイト】  
-https://xekid78.github.io/HTML_SAMPLE_CODE_2/
+https://xekid78.github.io/html_sample_code2/
