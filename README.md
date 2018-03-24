@@ -2,7 +2,7 @@
 レスポンシブウェブデザイン
 
 ## 実行結果
-[【クリックして下さい】](https://xekid78.github.io/WebServiceIntroduction/)
+[【クリックして下さい】](https://xekid78.github.io/WebResponsive/)
   
 ## 開発環境
 | 開発ツール |  |
